@@ -1,0 +1,44 @@
+body{
+    background-image: linear-gradient(to right,rgb(240, 195, 112),rgb(250, 178, 190));
+    /* box-sizing: border-box;
+    justify-content: center; */
+}
+.container{
+    display: flex;  
+    width: 80%;
+    margin-left: 10%;
+    margin-top: 7%;
+    
+}
+
+.container >div{
+ margin: auto;
+ 
+
+}
+
+
+.con{
+    background-color: rgb(238, 162, 20);
+    height: 500px;
+    width: 30%;
+    padding: 30px;
+    margin-left:  50%;
+
+}
+.con2{
+    background-color: aliceblue;
+    height: 500px;
+    width: 70%;
+    padding: 30px;
+    margin-left:  60%;
+}
+.form action{
+    margin-right: 50px;
+    padding-left: 50px;
+}
+/* .main, p{
+    padding-right: 30%;
+    margin: 40%;
+
+} */

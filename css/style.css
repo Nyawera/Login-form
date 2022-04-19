@@ -1,0 +1,129 @@
+body{
+    background-image: linear-gradient(to right,rgb(240, 195, 112),rgb(250, 178, 190));
+    /* box-sizing: border-box;
+    justify-content: center; */
+}
+.container{
+    display: flex;  
+    width: 80%;
+    margin-left: 1%;
+    margin-top: 7%;
+    padding-right: 10%;
+    text-align: center;
+    
+}
+
+.container >div{
+ margin: auto;
+ 
+
+}
+
+
+.con{
+    background-color: rgb(238, 162, 20);
+    height: 560px;
+    width: 50%;
+    padding-inline-start: 0%;
+    margin-left:  50%;
+    
+
+}
+.con2{
+    background-color: aliceblue;
+    height: 500px;
+    width: 70%;
+    padding: 30px;
+    margin-left:  60%;
+    
+}
+.con2,P1{ 
+    margin-left: 65%;
+    margin-top: 500%;  
+    text-align: left;
+    
+    /* text-justify: 10%;
+    margin-bottom: -9;
+         */
+}
+/* .h6{
+    background-color: blue;
+} */
+
+.fa-google {
+  /* background-color: rgb(17, 17, 116); */
+  color: white;
+  background-color: rgb(72, 72, 85);
+
+}
+
+.fa-twitter {
+  background: #e0e7ec;;
+  color: white;;
+  padding: 20px;
+  font-size: 30px;
+  width: 10px;
+  height: 5px;
+  text-align: center;
+  text-decoration: none;
+  margin: 5px 2px;
+}
+.fa-facebook {
+ background: #e0e7ec;
+ color: white;
+ padding: 20px;
+  font-size: 30px;
+  width: 10px;
+  height: 5px;
+  text-align: center;
+  text-decoration: none;
+  margin: 5px 2px;
+    
+  }
+  .signing1{
+      margin-left: 50%;
+      text-justify: 10%;
+      margin: bottom -9px; ;
+      width: 50%;
+      height: 50%;
+      /* width: 50%; */
+  }
+  .main button{
+      background-color: blue;
+    
+  }
+  .button1{
+      background-color: rgb(245, 127, 215);
+      
+  }
+  .sign{
+      display: flex;
+      
+  }
+  /* .p5{
+      font-size: 5px;
+  } */
+  /* .button style{
+      width: 10px;
+  }
+  /* } */
+  
+   
+
+
+
+
+
+    
+    
+
+
+/* .form action label for{
+    margin-right: 50px;
+    padding-left: 50px; */
+/* } */
+/* .main, p{
+    padding-right: 30%;
+    margin: 40%;
+
+} */
