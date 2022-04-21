@@ -54,6 +54,7 @@ body{
   /* background-color: rgb(17, 17, 116); */
   color: white;
   background-color: rgb(72, 72, 85);
+  
 
 }
 
@@ -100,6 +101,9 @@ body{
       display: flex;
       
   }
+  /* .pass{
+      margin-bottom: 50%;
+  } */
   /* .p5{
       font-size: 5px;
   } */
